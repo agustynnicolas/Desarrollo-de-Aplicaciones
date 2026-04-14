@@ -127,6 +127,7 @@ public class Actividad2Ejercicio2 {
 }
 */
 
+/*
 import java.util.Scanner;
 
 public class Actividad2Ejercicio2 {
@@ -162,4 +163,4 @@ public class Actividad2Ejercicio2 {
         teclado.close();
     }
 }
-
+*/
